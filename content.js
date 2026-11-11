@@ -14,7 +14,8 @@ window.SITE = {
     { kind: "reel", url: "videos/reel-4.mp4" },
     { kind: "reel", url: "videos/reel-5.mp4" },
     { kind: "long", url: "videos/long-1.mp4" },
-    { kind: "reel", url: "videos/reel-6.mp4" }
+    { kind: "reel", url: "videos/reel-6.mp4" },
+    { kind: "reel", url: "videos/reel-7.mp4" }
   ],
   testi: [
     { kind: "image", name: "", photo: "", url: "reviews/review-1.webp" },
